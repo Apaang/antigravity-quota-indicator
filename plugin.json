@@ -1,0 +1,6 @@
+{
+  "name": "local-quota",
+  "displayName": "模型额度",
+  "version": "1.2.0",
+  "description": "在 Antigravity 系统设置上方显示两组模型的 5 小时和每周剩余额度。"
+}

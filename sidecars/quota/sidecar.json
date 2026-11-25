@@ -1,0 +1,7 @@
+{
+  "command": "node",
+  "args": ["main.mjs"],
+  "restart_policy": "always",
+  "display_name": "模型额度",
+  "description": "在系统设置上方显示 Gemini Models 和 Claude and GPT models 的剩余额度。"
+}
